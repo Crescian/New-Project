@@ -32,7 +32,7 @@ session_start();
         </div>
         <div class="user-details">
           <p class="title">Jr. Programmer</p>
-          <p class="name">I love you</p>
+          <p class="name">Ronna Mae Medalla</p>
         </div>
       </div>
       <div class="nav">
